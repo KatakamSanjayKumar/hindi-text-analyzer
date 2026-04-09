@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+analysis_output.csv
+hindi_text_dataset.csv
